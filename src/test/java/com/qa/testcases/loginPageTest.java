@@ -24,6 +24,7 @@ public class loginPageTest extends MyTestBase{
 	public void setup() {
 		
 		System.out.println("before initialization");
+		System.out.println("before initialization");
 		
 		initialization();
 		
