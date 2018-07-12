@@ -54,7 +54,7 @@ public class loginPageTest extends MyTestBase{
 	public void closeBrowser() {
 		
 		driver.quit();
-		System.out.println("browser closed successfully");
+		System.out.println("browser closed successfullsy");
 	}
 	
 
