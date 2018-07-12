@@ -2,32 +2,32 @@
 <testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="17016" started-at="2018-07-12T00:36:42Z" finished-at="2018-07-12T00:36:59Z">
+  <suite name="Default suite" duration-ms="18680" started-at="2018-07-12T04:00:44Z" finished-at="2018-07-12T04:01:03Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="17016" started-at="2018-07-12T00:36:42Z" finished-at="2018-07-12T00:36:59Z">
+    <test name="Default test" duration-ms="18680" started-at="2018-07-12T04:00:44Z" finished-at="2018-07-12T04:01:03Z">
       <class name="com.qa.testcases.loginPageTest">
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.testcases.loginPageTest@3ffc5af1]" name="setup" is-config="true" duration-ms="5065" started-at="2018-07-11T19:36:42Z" finished-at="2018-07-11T19:36:47Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.testcases.loginPageTest@336206d8]" name="setup" is-config="true" duration-ms="5731" started-at="2018-07-11T23:00:44Z" finished-at="2018-07-11T23:00:50Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="PageTitle()[pri:1, instance:com.qa.testcases.loginPageTest@3ffc5af1]" name="PageTitle" duration-ms="34" started-at="2018-07-11T19:36:47Z" finished-at="2018-07-11T19:36:47Z">
+        <test-method status="PASS" signature="PageTitle()[pri:1, instance:com.qa.testcases.loginPageTest@336206d8]" name="PageTitle" duration-ms="62" started-at="2018-07-11T23:00:50Z" finished-at="2018-07-11T23:00:50Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PageTitle -->
-        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.qa.testcases.loginPageTest@3ffc5af1]" name="closeBrowser" is-config="true" duration-ms="622" started-at="2018-07-11T19:36:47Z" finished-at="2018-07-11T19:36:47Z">
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.qa.testcases.loginPageTest@336206d8]" name="closeBrowser" is-config="true" duration-ms="645" started-at="2018-07-11T23:00:50Z" finished-at="2018-07-11T23:00:51Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.testcases.loginPageTest@3ffc5af1]" name="setup" is-config="true" duration-ms="4773" started-at="2018-07-11T19:36:47Z" finished-at="2018-07-11T19:36:52Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.testcases.loginPageTest@336206d8]" name="setup" is-config="true" duration-ms="4435" started-at="2018-07-11T23:00:51Z" finished-at="2018-07-11T23:00:55Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="login()[pri:2, instance:com.qa.testcases.loginPageTest@3ffc5af1]" name="login" duration-ms="5855" started-at="2018-07-11T19:36:52Z" finished-at="2018-07-11T19:36:58Z">
+        <test-method status="PASS" signature="login()[pri:2, instance:com.qa.testcases.loginPageTest@336206d8]" name="login" duration-ms="7125" started-at="2018-07-11T23:00:55Z" finished-at="2018-07-11T23:01:02Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.qa.testcases.loginPageTest@3ffc5af1]" name="closeBrowser" is-config="true" duration-ms="647" started-at="2018-07-11T19:36:58Z" finished-at="2018-07-11T19:36:59Z">
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.qa.testcases.loginPageTest@336206d8]" name="closeBrowser" is-config="true" duration-ms="652" started-at="2018-07-11T23:01:02Z" finished-at="2018-07-11T23:01:03Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
