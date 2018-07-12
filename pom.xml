@@ -8,7 +8,16 @@
   
   
   
-
+<properties>
+  		<project.build.sourceencoding>UFT-8</project.build.sourceencoding>
+	  <suiteXmlFile>C:\Users\rajni\eclipse-workspace\pageTest\testng.xml</suiteXmlFile>
+	  <maven.test.skip>flase</maven.test.skip>
+	  
+	   
+          <JAVA_1_4_HOME>C:\Program Files\Java\jdk1.8.0_172</JAVA_1_4_HOME>
+       
+	  
+   </properties>
 
   
 
@@ -21,13 +30,7 @@
     <version>6.9.10</version>
     <scope>compile</scope>
   </dependency>
-  <!-- https://mvnrepository.com/artifact/com.aventstack/extentreports -->
-<dependency>
-    <groupId>com.aventstack</groupId>
-    <artifactId>extentreports</artifactId>
-    <version>3.1.5</version>
-    
-</dependency>
+
 
 <!-- https://mvnrepository.com/artifact/org.testng/Selenium -->
   <dependency>
@@ -36,45 +39,9 @@
         <version>3.12.0</version>
    </dependency>  
     
-<!-- https://mvnrepository.com/artifact/com.relevantcodes/extentreports -->
-<dependency>
-    <groupId>com.relevantcodes</groupId>
-    <artifactId>extentreports</artifactId>
-    <version>2.41.2</version>
-</dependency>
 
-	<!-- https://mvnrepository.com/artifact/org.apache.poi/poi -->
-<dependency>
-    <groupId>org.apache.poi</groupId>
-    <artifactId>poi</artifactId>
-    <version>3.17</version>
-</dependency>
-	
-	<!-- https://mvnrepository.com/artifact/org.apache.poi/poi-ooxml -->
-<dependency>
-    <groupId>org.apache.poi</groupId>
-    <artifactId>poi-ooxml</artifactId>
-    <version>3.11</version>
-</dependency>
-	<!-- https://mvnrepository.com/artifact/org.apache.poi/poi-ooxml-schemas -->
-<dependency>
-    <groupId>org.apache.poi</groupId>
-    <artifactId>poi-ooxml-schemas</artifactId>
-    <version>3.7</version>
-</dependency>
-	<!-- https://mvnrepository.com/artifact/org.apache.poi/poi-scratchpad -->
-<dependency>
-    <groupId>org.apache.poi</groupId>
-    <artifactId>poi-scratchpad</artifactId>
-    <version>3.2-FINAL</version>
-</dependency>
-	<!-- https://mvnrepository.com/artifact/org.apache.poi/ooxml-schemas -->
-<dependency>
-    <groupId>org.apache.poi</groupId>
-    <artifactId>ooxml-schemas</artifactId>
-    <version>1.0</version>
-</dependency>
-	
+
+
     
   
   </dependencies>
