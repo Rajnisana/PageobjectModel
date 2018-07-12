@@ -9,7 +9,7 @@
   
   
 <properties>
-  		<project.build.sourceencoding>UFT-8</project.build.sourceencoding>
+ 	<project.build.sourceencoding>UFT-8</project.build.sourceencoding>
 	  <suiteXmlFile>C:\Users\rajni\eclipse-workspace\pageTest\testng.xml</suiteXmlFile>
 	  <maven.test.skip>flase</maven.test.skip>
 	  
